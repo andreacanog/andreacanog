@@ -1,6 +1,5 @@
 ### Hi there, I'm Andrea 👋
 
-**andreacanog/andreacanog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 👩🏻‍💻 I'm a full stack software engineer
