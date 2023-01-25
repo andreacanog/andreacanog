@@ -1,6 +1,6 @@
 ## Hi there, I'm Andrea 👋
 
-<img align="right" alt="GIF" src="https://github.com/andreacanog/andreacanog/blob/main/code.gif?raw=true" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://github.com/andreacanog/andreacanog/blob/main/code.gif?raw=true" width="300" height="220"/>
 
 
 - 👩🏻‍💻 I'm a full stack software engineer
