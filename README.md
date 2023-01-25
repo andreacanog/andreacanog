@@ -1,9 +1,6 @@
 ### Hi there, I'm Andrea 👋
 
-<!--
 **andreacanog/andreacanog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 - 👩🏻‍💻 I'm a full stack software engineer
@@ -17,4 +14,3 @@ Here are some ideas to get you started:
 - 🍫 Fun fact: I love nutella
 
 
--->
