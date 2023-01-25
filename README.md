@@ -19,7 +19,12 @@
 ### 📈 My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreacanog&layout=compact)](https://github.com/andreacanog/github-readme-stats)
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreacanog&show_icons=true&theme=radical)
+<!-- ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api/?username=andreacanog&count_private=true&theme=tokyonight&showicons=true) -->
+
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreacanog&count_private=true)
+
+
+
 
 
 
