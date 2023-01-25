@@ -1,6 +1,6 @@
 ## Hi there, I'm Andrea 👋
 
-<img align="right" alt="GIF" src="https://github.com/andreacanog/andreacanog/blob/main/code.gif?raw=true" width="300" height="220"/>
+<img align="right" alt="GIF" src="https://github.com/andreacanog/andreacanog/blob/main/code.gif?raw=true" width="450" height="320"/>
 
 
 - 👩🏻‍💻 I'm a full stack software engineer
@@ -14,13 +14,13 @@
 - 🍫 Fun fact: I love nutella
 
 
-
+---------------------------------------------------------------
 
 ### 📈 My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreacanog&layout=compact)](https://github.com/andreacanog/github-readme-stats)
 
 <!-- ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api/?username=andreacanog&count_private=true&theme=tokyonight&showicons=true) -->
-
+----------------------------------------------------------------
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreacanog&count_private=true)
 
 
