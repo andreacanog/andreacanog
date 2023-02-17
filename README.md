@@ -5,7 +5,6 @@
 
 - 👩🏻‍💻 I'm a full stack software engineer
 - 🔭 I’m currently working on my full stack projects 
-<!-- - 🌱 I’m currently learning Python -->
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about my instagram clone [Instapound](https://github.com/andreacanog/Instapound)
 - 📁 You can find my projects here [portfolio](https://andreacano.dev/)
