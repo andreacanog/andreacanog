@@ -8,7 +8,7 @@
 <!-- - 🌱 I’m currently learning Python -->
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about my instagram clone [Instapound](https://github.com/andreacanog/Instapound)
-- 📁 You can find my projects here [portfolio] 
+- 📁 You can find my projects here [portfolio](https://andreacano.dev/)
 - 📫 How to reach me: [emial](mailto:andreacanogisbert@gmail.com?subject=[GitHub]%20Source%20Han%20San)
 - 🔗 Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/andrea-cano-gisbert-4402151b8/)
 - 🍫 Fun fact: I love nutella
