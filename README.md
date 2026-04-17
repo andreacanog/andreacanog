@@ -4,11 +4,9 @@
 
 
 - 👩🏻‍💻 I'm a full stack software engineer
-- 🔭 I’m currently working on my full-stack projects 
-- 👯 I’m looking to collaborate on any project
-- 💬 Ask me about my Instagram clone [Instapound](https://github.com/andreacanog/Instapound)
-- 📁 You can find my projects here [portfolio](https://andreacano.dev/)
-- 📫 How to reach me: [emial](mailto:andreacanogisbert@gmail.com?subject=[GitHub]%20Source%20Han%20San)
+- 🔭 I'm currently building a task manager with Rails and GraphQL
+- 💬 Ask me about Instapound or my work at Xakari
+- 📫 How to reach me: [email](mailto:andreacanogisbert@gmail.com?subject=[GitHub]%20Source%20Han%20San)
 - 🔗 Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/andrea-cano-gisbert-4402151b8/)
 - 🍫 Fun fact: I love Nutella
 
